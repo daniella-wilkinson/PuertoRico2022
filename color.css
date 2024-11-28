@@ -1,0 +1,38 @@
+.txt-yellow {color: #FBF8DD;}
+
+.txt-blue1 {color: #6997B8;}
+.txt-blue2 {color: #49718F;}
+.txt-blue3 {color: #1F3A4E;}
+
+.txt-red1 {color: #F48484;}
+.txt-red2 {color: #f46363;}
+.txt-red3 {color: #F55050;}
+
+/* --> */
+
+.bg-yellow {background-color: #FBF8DD;}
+
+.bg-blue1 {background-color: #6997B8;}
+.bg-blue2 {background-color: #49718F;}
+.bg-blue3 {background-color: #1F3A4E;}
+
+.bg-red1 {background-color: #F48484;}
+.bg-red2 {background-color: #f46363;}
+.bg-red3 {background-color: #F55050;}
+
+/* --> */
+
+body {background-color: #FBF8DD;}
+nav {background-color: #1F3A4E;}
+nav a {color:#FBF8DD;}
+
+body {color: #1F3A4E;}
+
+.banner {
+    color: #FBF8DD;
+    background-color: #1F3A4E;
+}
+
+.banner a {color: #FBF8DD;}
+
+.pg-nav a {color: #1F3A4E;}

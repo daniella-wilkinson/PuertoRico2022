@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+/* Merriweather */
+
+.merri-thin {
+  font-family: "Merriweather", serif;
+  font-weight: 100;
+}
+
+.merri-extralight {
+  font-family: "Merriweather", serif;
+  font-weight: 200;
+}
+
+.merri-light {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
+
+.merri-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+}
+
+.merri-medium {
+  font-family: "Merriweather", serif;
+  font-weight: 500;
+}
+
+.merri-semibold {
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+}
+
+.merri-bold {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+}
+
+.merri-extrabold {
+  font-family: "Merriweather", serif;
+  font-weight: 800;
+}
+
+.merri-black {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+}
+
+/* --> */
+
+.merri-thin-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.merri-extralight-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.merri-light-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.merri-regular-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.merri-medium-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.merri-semibold-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.merri-bold-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.merri-extrabold-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.merri-black-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Inter */
+
+.inter-thin {
+  font-family: "Inter", sans-serif;
+  font-weight: 100; }
+
+.inter-extralight {
+  font-family: "Inter", sans-serif;
+  font-weight: 200; }
+
+.inter-light {
+  font-family: "Inter", sans-serif;
+  font-weight: 300; }
+
+.inter-regular {
+  font-family: "Inter", sans-serif;
+  font-weight: 400; }
+
+.inter-medium {
+  font-family: "Inter", sans-serif;
+  font-weight: 500; }
+
+.inter-semibold {
+  font-family: "Inter", sans-serif;
+  font-weight: 600; }
+
+.inter-bold {
+  font-family: "Inter", sans-serif;
+  font-weight: 700; }
+
+.inter-extrabold {
+  font-family: "Inter", sans-serif;
+  font-weight: 800; }
+
+.inter-black {
+  font-family: "Inter", sans-serif;
+  font-weight: 900; }
+
+/* --> */
+
+.inter-thin-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-style: italic; }
+
+.inter-extralight-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-style: italic; }
+
+.inter-light-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-style: italic; }
+
+.inter-regular-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-style: italic; }
+
+.inter-medium-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-style: italic; }
+
+.inter-semibold-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-style: italic; }
+
+.inter-bold-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-style: italic; }
+
+.inter-extrabold-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  font-style: italic; }
+
+.inter-black-italic {
+  font-family: "Inter", sans-serif;
+  font-weight: 900;
+  font-style: italic; }
+
+/* --> */
+
+.h0 {
+  font-size: 7rem;
+  margin: 0;
+  padding: 0;
+}
+
+.h1 {
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+}
+
+.h2 {
+  font-size: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.h3 {
+  font-size: 1.75rem;
+  margin: 0;
+  padding: 0;
+}
+
+.h4 {
+  font-size: 1.50rem;
+  margin: 0;
+  padding: 0;
+}
+
+.h5 {
+  font-size: 1.25rem;
+  margin: 0;
+  padding: 0;
+}
+
+.h6 {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+/* --> */
+
+body {font-family: "Inter", sans-serif; }
+
+a {text-decoration: none;}
+
+.large-line:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 6px;
+  text-underline-offset: 6px;
+}
+
+.little-line:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* --> */
+
+.txt-indent {text-indent: 35px;}
+
+.txt-center {text-align: center;}
+.txt-justify {text-align: justify;}

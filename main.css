@@ -1,0 +1,8 @@
+/* layout */
+@import url("layout/body.css");
+@import url("layout/header.css");
+@import url("layout/footer.css");
+
+/* graphic */
+@import url("graphic/color.css");
+@import url("graphic/type.css");
