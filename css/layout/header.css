@@ -22,7 +22,7 @@ nav {
 
 /* --> */
 
-.banner {padding: 15px 0px 50px 0px;}
+.banner {padding: 0px 0px 50px 0px;}
 
 .banner-item {
     margin-left: auto;
@@ -34,3 +34,4 @@ nav {
     /* width */
     width: 80%;
 }
+
